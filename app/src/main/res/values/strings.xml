@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Assignment1</string>
+    <string name="app_name">CS3270A1Olson</string>
+    <string name="helloWorld">Hello Hunter Olson!</string>
 </resources>
